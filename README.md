@@ -8,10 +8,6 @@
 
 <div align="left">
 <p> 💻 &nbsp&nbsp I am passionate about <strong>Deep Learning</strong> and <strong>Machine Learning</strong> </p>
-  <p>
-    <a href="https://blog.csdn.net/weixin_45215649?spm=1000.2115.3001.5343" style="text-decoration:none;"><img src="https://img-home.csdnimg.cn/images/20201124032511.png" alt="CSDN" width="80" height="40"/><span>&nbsp&nbsp Here is where I post my blog </span>
-    </a>
-  </p>
   <p>📚 &nbsp&nbsp Check out my repositories for my latest projects and contributions in the field!</p>
   <p>🌱 &nbsp&nbsp I'm always learning and exploring new technologies to solve real-world problems.</p>
 </div>
@@ -19,7 +15,7 @@
 
 
 
-
+<h4 align="left"> Here is how you can contact me </h4>
 <div align="center" style="display:flex；justify-content:space-between" >
   <a href="mailto:xiaoyao99_@outlook.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
@@ -77,7 +73,7 @@
   <ul style="line-height: 2;">     
   <li> <a href="https://www.coursera.org/account/accomplishments/certificate/TE2V2FWXNH5L" target="_blank" rel="noreferrer" style="text-decoration:none; color:black;"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png?auto=format%2Ccompress&dpr=1&w=25&h=25" />&nbsp&nbsp Machine Learning with Python - IBM(Coursera)&nbsp👈</a></li>     
     <li><a href="https://www.coursera.org/account/accomplishments/certificate/L2KVC8EW5C5B" target="_blank" rel="noreferrer" style="text-decoration:none; color:black;"> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png?auto=format%2Ccompress&dpr=1&w=25&h=25">&nbsp&nbsp Convolutional Neural Networks - DeepLearning.AI(Coursera)&nbsp👈</a></li>     
-    <li><a href="https://www.coursera.org/account/accomplishments/certificate/JV29GVG5X9AN" target="_blank" rel="noreferrer" style="text-decoration:none; color:black;"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/4a/cb36835ae3421187080898a7ecc11d/Google-G_360x360.png?auto=format%2Ccompress&dpr=1&w=25&h=25">&nbsp&nbsp Crash Course on Python - Google(Coursera)&nbsp👈</a></li>      
+<!--     <li><a href="https://www.coursera.org/account/accomplishments/certificate/JV29GVG5X9AN" target="_blank" rel="noreferrer" style="text-decoration:none; color:black;"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/4a/cb36835ae3421187080898a7ecc11d/Google-G_360x360.png?auto=format%2Ccompress&dpr=1&w=25&h=25">&nbsp&nbsp Crash Course on Python - Google(Coursera)&nbsp👈</a></li>       -->
   </ul>
 </div>
 
