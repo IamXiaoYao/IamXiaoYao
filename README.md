@@ -9,7 +9,7 @@
 <div align="left">
 <p> 💻 &nbsp&nbsp I am passionate about <strong>Deep Learning</strong> and <strong>Machine Learning</strong> </p>
   <p>
-    <a href="https://blog.csdn.net/weixin_45215649?spm=1000.2115.3001.5343" style="text-decoration:none;" ><img src="https://img-home.csdnimg.cn/images/20201124032511.png" alt="CSDN" width="80" height="40"/><span>&nbsp&nbsp Here is where I post my blog </span>
+    <a href="https://blog.csdn.net/weixin_45215649?spm=1000.2115.3001.5343" style="text-decoration:none;"><img src="https://img-home.csdnimg.cn/images/20201124032511.png" alt="CSDN" width="80" height="40"/><span>&nbsp&nbsp Here is where I post my blog </span>
     </a>
   </p>
   <p>📚 &nbsp&nbsp Check out my repositories for my latest projects and contributions in the field!</p>
@@ -20,10 +20,8 @@
 
 
 
-<h4 align="left"> Here is how you can contact me </h4>
-
 <div align="center" style="display:flex；justify-content:space-between" >
-  <a href="mailto:xiaoyao99_@outlook.com" style="text-decoration:none;>
+  <a href="mailto:xiaoyao99_@outlook.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/xiao-yao-821817297/" target="_blank">
@@ -31,9 +29,6 @@
   </a>
   <a href="https://blog.csdn.net/weixin_45215649?spm=1000.2115.3001.5343" style="text-decoration:none;"><img src="https://img-home.csdnimg.cn/images/20201124032511.png" alt="CSDN" width="100" height="50"/> 
   </a>
-  <!--<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank">
-  </a>-->
 </div>
 
 
