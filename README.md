@@ -56,11 +56,11 @@
 
 <h2 align="left"><img src="https://cdn-icons-png.flaticon.com/512/9850/9850812.png" width=40", height="40"/> DataBase:</h2>
 <div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-512x266-a48lsirx.png" height="50" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="40" alt="oracle logo"  />
+  <img src="https://assets.stickpng.com/images/62bc7b13071dec17849af324.png" height="50" alt="oracle logo"/>
   &nbsp &nbsp
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" height="70" alt="microsoftsqlserver logo"/>
 </div>
 
 
