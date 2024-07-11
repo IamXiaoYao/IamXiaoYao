@@ -13,8 +13,7 @@
 </div>
 
 
-
-
+<hr/>
 <h4 align="left"> Here is how you can contact me </h4>
 <div align="center" style="display:flex；justify-content:space-between" >
   <a href="mailto:xiaoyao99_@outlook.com">
