@@ -58,7 +58,7 @@
 <div align="left">
   <img src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-512x266-a48lsirx.png" height="50" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://assets.stickpng.com/images/62bc7b13071dec17849af324.png" height="50" alt="oracle logo"/>
+  <img src="https://www.pngitem.com/pimgs/m/718-7189867_oracle-logo-png-transparent-png.png" height="50" alt="oracle logo"/>
   &nbsp &nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" height="70" alt="microsoftsqlserver logo"/>
 </div>
