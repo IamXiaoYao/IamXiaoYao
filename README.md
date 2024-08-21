@@ -56,7 +56,7 @@
 
 <h2 align="left"><img src="https://cdn-icons-png.flaticon.com/512/9850/9850812.png" width=40", height="40"/> DataBase:</h2>
 <div align="left">
-  <img src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-512x266-a48lsirx.png" height="50" alt="mysql logo"  />
+  <img src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png" height="50" alt="mysql logo"  />
   <img width="12" />
   <img src="https://www.pngitem.com/pimgs/m/718-7189867_oracle-logo-png-transparent-png.png" height="50" alt="oracle logo"/>
   &nbsp &nbsp
