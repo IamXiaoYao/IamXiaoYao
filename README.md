@@ -7,7 +7,7 @@
 
 
 <div align="left">
-<p> 💻 &nbsp&nbsp I am passionate about <strong>Deep Learning</strong> and <strong>Machine Learning</strong> </p>
+<p> 💻 &nbsp&nbsp I am passionate about <strong>Deep Learning,</strong><strong>Machine Learning,</strong><strong>NLP</strong> and <strong>LLM</strong></p>
   <p>📚 &nbsp&nbsp Check out my repositories for my latest projects and contributions in the field!</p>
   <p>🌱 &nbsp&nbsp I'm always learning and exploring new technologies to solve real-world problems.</p>
 </div>
